@@ -1,2 +1,5 @@
 file 1 hello
 file edited hello 
+hello file in feature branch
+hello file edited from feature branch 
+feature-branch
